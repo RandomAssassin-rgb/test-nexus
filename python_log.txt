@@ -1,0 +1,7 @@
+Starting ML Service...
+Starting ML Service...
+INFO:     127.0.0.1:59936 - "POST /predict/risk HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45017 - "POST /predict/risk HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45017 - "POST /predict/oracle HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45017 - "POST /predict/fraud HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45017 - "POST /predict/premium HTTP/1.1" 200 OK
